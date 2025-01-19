@@ -1,2 +1,8 @@
-# 8b-instruct
-API to get responses from llama-3.1-8b-instruct
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
